@@ -1,0 +1,121 @@
+.icon-shop {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-server {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-help {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-cart {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-arrow-down-circle {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("arrow-down-circle.svg") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-indicator-success {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("online-indicator-success.svg") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-mouse-circle {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-all-products {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("all-products.svg") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-item {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-group {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-coins {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-case {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-other {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("other.svg") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.icon-lg {
+    width: 36px;
+    height: 36px;
+}
