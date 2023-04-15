@@ -3,7 +3,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/shop.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -12,7 +12,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/server.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -21,7 +21,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/help.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -30,7 +30,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/cart.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -39,7 +39,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("arrow-down-circle.svg") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/arrow-down-circle.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -48,7 +48,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("online-indicator-success.svg") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/online-indicator-success.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -57,7 +57,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/mouse-circle.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -66,7 +66,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("all-products.svg") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/all-products.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -75,7 +75,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/item.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -84,7 +84,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/group.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -93,7 +93,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/coins.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -102,7 +102,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/case.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -111,7 +111,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url("other.svg") no-repeat;
+    background: url('/themes/limbo/assets/images/icons/other.svg') no-repeat;
     background-position: center;
     background-size: cover;
 }
